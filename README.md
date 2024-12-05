@@ -8,15 +8,10 @@
 <br>
 <br>
 
-# a. Nombre del proyecto.
-
-# **Refugio Kimba**
+a. Nombre del proyecto.
+Refugio Kimba
 
 Aplicación web y móvil para la gestión de una protectora de animales.
-
-<hr>
-<br>
-<br>
 
 # b. Idea del Proyecto.
 
@@ -25,10 +20,6 @@ Aplicación web y móvil para la gestión de una protectora de animales.
 Con vistas al Trabajo de Fin de Curso (TFC), este proyecto será una práctica que puede evolucionar para convertirse en una herramienta funcional o incluso en una parte del proyecto final.
 
 La idea es desarrollar una aplicación web para una protectora de animales, cuyo objetivo principal será facilitar la gestión de las instalaciones y los animales en busca de adopción, además de promover la participación de voluntarios.
-
-<hr>
-<br>
-<br>
 
 # c. Justificación del proyecto.
 
@@ -51,9 +42,9 @@ Con este proyecto, buscamos ofrecer una solución práctica y eficiente mediante
 <br>
 <br>
 
-# 3. Descripción detallada de las entidades
+# d. Descripción detallada de las entidades
 
-## Planteamiento de las entidades
+## 1. Planteamiento de las entidades
 
 ### Entidades básicas
 
@@ -82,7 +73,7 @@ Conforme avance el desarrollo del proyecto, se integrarán nuevas entidades para
 - Visitas al Centro: Gestión de actividades organizadas por el refugio, como jornadas de adopción y eventos educativos.
 
 
-## Descripción detallada de las entidades
+## 2. Descripción detallada de las entidades
 
 ### Usuarios
 Campos principales:
