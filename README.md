@@ -5,11 +5,8 @@
 ### __Sara Sánchez Camilleri.__
 
 <hr>
-<!--
-Plantea una idea de API REST, la cual deberás desarrollar. Esta
-idea de aplicación deberá tener unas tablas a las cuales se
-deberá acceder haciendo uso de la API
--->
+<br>
+<br>
 
 # 1. Idea del proyecto: API REST para una protectora de animales
 
@@ -44,11 +41,6 @@ El propósito final es optimizar la comunicación y el flujo de trabajo en la pr
 <br>
 <br>
 
-
-<!-- 
-Una vez tengas la idea, deberás plantear las tablas que vas a
-gestionar.
--->
 # 2. Planteamiento de las entidades.
 
 ## Entidades básicas
@@ -76,12 +68,6 @@ Conforme avance el desarrollo del proyecto, se integrarán nuevas entidades para
 
 
 - **Visitas al Centro**: Gestionará las actividades organizadas por el refugio, como jornadas de adopción, eventos educativos en colaboración con escuelas u otras instituciones, y visitas generales. Esta funcionalidad permitirá al centro organizar y registrar la participación en estas actividades de manera eficiente.
-
-<!--
-Una vez tengas la idea y las tablas planteadas, deberás plantear
-todos los campos que las tablas deberán tener así como el tipo
-de dato y las restricciones que vas a aplicar.
--->
 
 <hr>
 <br>
@@ -131,15 +117,6 @@ de dato y las restricciones que vas a aplicar.
 <br>
 <br>
 
-<!--
-Cuando hayas cumplido el punto 4, ya puedes pasar a realizar un
-diagrama de entidad-relación de las tablas.
--->
-
 # 4. Diagrama Entidad/Relación
 
-
-<!--
-Cuando hayas cumplido el punto 4, ya puedes pasar a realizar un
-diagrama de entidad-relación de las tablas.
--->
+![Diagrama Entidad/Relación](./src/main/resources/images/UT02_API_REST_SEGURA.jpg)
